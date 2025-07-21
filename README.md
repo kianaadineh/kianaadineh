@@ -2,15 +2,13 @@
 
 🎓 Master’s student in Computer Engineering  
 💡 Interested in Embedded Systems, Hardware Accelerators, and Secure AI  
-🌱 Currently learning: Advanced VLSI, Italian 🇮🇹  
-🔬 Thesis topic: Fault-tolerant hardware accelerator for neural networks in safety-critical applications  
-🎬 Favorite genres: Teen dramas like *Clouds*, *After*, *Ginny & Georgia*
+🌱 Currently learning: Italian 🇮🇹  
 
 ---
 
 🛠️ **Tech Stack**
 - Languages: C/C++, Python, Verilog, SystemVerilog
-- Tools: Git, GitHub, ModelSim, Vivado, Notion, LaTeX
+- Tools: Git, GitHub, ModelSim, Notion, LaTeX
 - Topics: Embedded Systems, Fault Injection, Energy Harvesting, Security
 
 ---
