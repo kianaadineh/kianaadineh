@@ -2,7 +2,7 @@
 
 🎓 Master’s student in Computer Engineering  
 💡 Interested in Embedded Systems, Hardware Accelerators, and Secure AI  
-🌱 Currently learning: Italian 🇮🇹  
+🌱 Currently learning: Spanish 🇪🇸
 
 ---
 
